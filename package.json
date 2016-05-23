@@ -1,0 +1,29 @@
+{
+  "name": "emails",
+  "version": "1.0.0",
+  "description": "email app",
+  "main": "message-interface.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilesikar/emails.git"
+  },
+  "keywords": [
+    "email"
+  ],
+  "author": "Ian Lesikar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ilesikar/emails/issues"
+  },
+  "homepage": "https://github.com/ilesikar/emails#readme",
+  "devDependencies": {
+    "browserify": "^13.0.1",
+    "gulp": "^3.9.1",
+    "gulp-jshint": "^2.0.1",
+    "jshint": "^2.9.2",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
